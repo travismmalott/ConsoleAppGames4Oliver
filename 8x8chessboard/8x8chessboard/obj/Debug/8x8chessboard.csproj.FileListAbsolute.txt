@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\8x8chessboard\8x8chessboard\obj\Debug\8x8chessboard.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\8x8chessboard\8x8chessboard\bin\Debug\8x8chessboard.exe.config
+C:\Users\Student\source\repos\8x8chessboard\8x8chessboard\bin\Debug\8x8chessboard.exe
+C:\Users\Student\source\repos\8x8chessboard\8x8chessboard\bin\Debug\8x8chessboard.pdb
+C:\Users\Student\source\repos\8x8chessboard\8x8chessboard\obj\Debug\8x8chessboard.exe
+C:\Users\Student\source\repos\8x8chessboard\8x8chessboard\obj\Debug\8x8chessboard.pdb
