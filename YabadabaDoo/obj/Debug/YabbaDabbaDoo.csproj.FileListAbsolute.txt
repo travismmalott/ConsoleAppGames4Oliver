@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Projects\YabadabaDoo\bin\Debug\YabadabaDoo.exe.config
+C:\Users\Student\Desktop\Projects\YabadabaDoo\bin\Debug\YabadabaDoo.exe
+C:\Users\Student\Desktop\Projects\YabadabaDoo\bin\Debug\YabadabaDoo.pdb
+C:\Users\Student\Desktop\Projects\YabadabaDoo\obj\Debug\YabbaDabbaDoo.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Projects\YabadabaDoo\obj\Debug\YabadabaDoo.exe
+C:\Users\Student\Desktop\Projects\YabadabaDoo\obj\Debug\YabadabaDoo.pdb
