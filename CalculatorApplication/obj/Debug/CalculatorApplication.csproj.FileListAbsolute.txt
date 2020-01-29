@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Projects\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\Student\Desktop\Projects\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\Student\Desktop\Projects\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\Student\Desktop\Projects\CalculatorApplication\obj\Debug\CalculatorApplication.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Projects\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\Student\Desktop\Projects\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
