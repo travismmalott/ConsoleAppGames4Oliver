@@ -1,0 +1,6 @@
+C:\Users\Student\OneDrive\Desktop\Projects\OlisDuckDuckGooseGame\bin\Debug\OlisDuckDuckGooseGame.exe.config
+C:\Users\Student\OneDrive\Desktop\Projects\OlisDuckDuckGooseGame\bin\Debug\OlisDuckDuckGooseGame.exe
+C:\Users\Student\OneDrive\Desktop\Projects\OlisDuckDuckGooseGame\bin\Debug\OlisDuckDuckGooseGame.pdb
+C:\Users\Student\OneDrive\Desktop\Projects\OlisDuckDuckGooseGame\obj\Debug\OlisDuckDuckGooseGame.csprojAssemblyReference.cache
+C:\Users\Student\OneDrive\Desktop\Projects\OlisDuckDuckGooseGame\obj\Debug\OlisDuckDuckGooseGame.exe
+C:\Users\Student\OneDrive\Desktop\Projects\OlisDuckDuckGooseGame\obj\Debug\OlisDuckDuckGooseGame.pdb
