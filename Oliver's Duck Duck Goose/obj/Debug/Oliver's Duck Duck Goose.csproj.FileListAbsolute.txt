@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\Oliver's Duck Duck Goose\obj\Debug\Oliver's Duck Duck Goose.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Oliver's Duck Duck Goose\bin\Debug\Oliver's Duck Duck Goose.exe.config
+C:\Users\Student\source\repos\Oliver's Duck Duck Goose\bin\Debug\Oliver's Duck Duck Goose.exe
+C:\Users\Student\source\repos\Oliver's Duck Duck Goose\bin\Debug\Oliver's Duck Duck Goose.pdb
+C:\Users\Student\source\repos\Oliver's Duck Duck Goose\obj\Debug\Oliver's Duck Duck Goose.exe
+C:\Users\Student\source\repos\Oliver's Duck Duck Goose\obj\Debug\Oliver's Duck Duck Goose.pdb
